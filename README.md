@@ -30,3 +30,7 @@
 - реализация адаптивности будет плюсом, но не обязательна
 - бесконечная прокрутка будет плюсом, но не обязательна
 - можно использовать любой фреймворк включая vanilla.js
+
+Задеплоенный проект: https://exxxcellent.github.io/vk-internship/
+Репозиторий: https://github.com/exxxcellent/vk-internship
+Мой GitHub: https://github.com/exxxcellent
